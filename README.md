@@ -3,16 +3,15 @@
 This repository contains the resources and documentation for the HR Analysis project, which involves creating a comprehensive dashboard in Power BI to visualize and analyze key HR metrics. The dashboard provides insights into gender distribution, promotion eligibility, years of service, job levels, active workers, potential for retrenchment, and job satisfaction levels within the company.
 
 ## Table of Contents
-
-## Introduction
-## Project Overview
-## Getting Started
-## Prerequisites
-## Installation
-## Dashboard Features
-## Data Sources
-## Contributing
-## License
+ Introduction
+ Project Overview
+ Getting Started
+ Prerequisites
+ Installation
+ Dashboard Features
+ Data Sources
+ Contributing
+ License
 
 
 ## Introduction
